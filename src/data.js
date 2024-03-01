@@ -113,6 +113,35 @@ const data = [
 			image: "https://images.unsplash.com/photo-1589041127168-9b1915731dc3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			price: "50,120",
 		  },
+		  	  {
+		id: 18,
+		name: "Kodaikanal",
+		info: "Kodaikanal is a hill station in the southern Indian state of Tamil Nadu. Nestled amidst the Western Ghats, Kodaikanal is known for its scenic beauty, pleasant climate, and outdoor activities, making it a popular tourist destination.",
+		image: "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		price: "37,800",
+	  },
+	  {
+		id: 19,
+		name: "Aurangabad",
+		info: "Aurangabad is a city in Maharashtra, known for its historical monuments, including the Ajanta and Ellora Caves. The city is a cultural and historical treasure, attracting tourists with its rich heritage and architectural wonders.",
+		image: "https://media.istockphoto.com/id/514991038/photo/ellora-caves-in-india.jpg?s=612x612&w=0&k=20&c=mGpgTujahN8VUTQnKei3T40Lh3AOMK_XKM5727eOUwY=",
+		price: "41,250",
+	  },
+	  
+	  {
+		id: 21,
+		name: "Guwahati",
+		info: "Guwahati is the largest city in the Indian state of Assam, situated on the banks of the Brahmaputra River. Known for its ancient temples, natural beauty, and vibrant culture, Guwahati is a gateway to the northeastern region of India.",
+		image: "https://images.unsplash.com/photo-1550647581-71f8afffad65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		price: "36,900",
+	  },
+	  {
+		id: 22,
+		name: "Bhopal",
+		info: "Bhopal, the capital of Madhya Pradesh, is known for its picturesque lakes, historical monuments, and vibrant culture. The city reflects a blend of the old and the new, with a rich history and modern amenities.",
+		image: "https://images.unsplash.com/photo-1608213189166-b099855aee3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		price: "39,500",
+	  },
 		
 	];
 
